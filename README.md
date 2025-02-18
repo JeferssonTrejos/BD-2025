@@ -1,6 +1,6 @@
 # BD-2025
 
-# division de los ejercicios:
+## division de los ejercicios:
 
 1-ejercicio: Diego Humberto Hernanadez Flores U20230524
 
